@@ -18,7 +18,7 @@ class ResultViewController: UIViewController {
         super.viewDidLoad()
         
         
-       _ = 
+       
         
         label.text = "こんにちは、\(self.name)さん"
 
